@@ -15,6 +15,7 @@ running = True
 while running:
 
     #Get inputs
+    gamer = "Johannes dufour"
     os.system('cls')
     print("Rollercoaster-check™")
     age = input("Voer leeftijd in: ")
